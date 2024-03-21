@@ -10,12 +10,12 @@ export default class Character {
     this.stone = value;
   }
 
-  set attack(value) {
-    this.attacked = value;
-  }
-
   get stoned() {
     return this.stone;
+  }
+
+  set attack(value) {
+    this.attacked = value;
   }
 
   get attack() {
