@@ -17,3 +17,5 @@
 Подсказка: используйте класс Math и наследование, чтобы не дублировать код.
 
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/l4va7uq64cy1vwbg?svg=true)](https://ci.appveyor.com/project/Kelias1/ajs-math)
